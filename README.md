@@ -186,7 +186,7 @@ GitHub:
 https://github.com/AnkurVermaOfficial
 
 LinkedIn:
-https://www.linkedin.com/in/ankur-verma
+[https://www.linkedin.com/in/ankur-verma](https://www.linkedin.com/in/ankur-verma-12march2002/)
 
 ---
 ⭐ If you like this project, consider giving it a star.
